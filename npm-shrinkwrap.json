@@ -11,7 +11,7 @@
         "next": "14.1.0",
         "react": "^18",
         "react-dom": "^18",
-        "react-select": "^10.2.4"
+        "react-select": "^5.8.0"
       },
       "devDependencies": {
         "@types/node": "^20",
